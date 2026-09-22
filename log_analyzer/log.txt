@@ -1,0 +1,35 @@
+12:00:01 [INFO] Altitude: 10m, Battery: 98%, Temp: 42C
+12:00:02 [INFO] Altitude: 25m, Battery: 95%, Temp: 43C
+12:00:03 [WARNING] Battery level dropping fast: 85%
+12:00:04 [INFO] Altitude: 50m, Battery: 82%, Temp: 45C
+12:00:05 [INFO] Altitude: 75m, Battery: 80%, Temp: 45C
+12:00:06 [INFO] Altitude: 100m, Battery: 78%, Temp: 46C
+12:00:07 [INFO] Altitude: 120m, Battery: 75%, Temp: 47C
+12:00:08 [WARNING] Strong wind gust detected. Stabilizing...
+12:00:09 [INFO] Altitude: 118m, Battery: 72%, Temp: 48C
+12:00:10 [INFO] Altitude: 125m, Battery: 70%, Temp: 48C
+12:00:11 [INFO] GPS Signal: Weak (4 satellites). Switching to optical flow.
+12:00:12 [INFO] Altitude: 130m, Battery: 67%, Temp: 49C
+12:00:13 [WARNING] High CPU temperature: 72C
+12:00:14 [INFO] Altitude: 135m, Battery: 64%, Temp: 50C
+12:00:15 [INFO] Altitude: 140m, Battery: 61%, Temp: 50C
+12:00:16 [INFO] Compass interference detected. Recalibrating in flight.
+12:00:17 [INFO] Altitude: 142m, Battery: 58%, Temp: 51C
+12:00:18 [INFO] GPS Signal restored (12 satellites).
+12:00:19 [INFO] Altitude: 150m, Battery: 55%, Temp: 51C
+12:00:20 [INFO] Reached waypoint #3. Holding position.
+12:00:21 [INFO] Altitude: 150m, Battery: 52%, Temp: 52C
+12:00:22 [INFO] Resuming flight plan. Heading North-West.
+12:00:23 [INFO] Altitude: 145m, Battery: 49%, Temp: 52C
+12:00:24 [WARNING] Battery cell imbalance detected: Cell 3 low.
+12:00:25 [INFO] Altitude: 130m, Battery: 42%, Temp: 53C
+12:00:26 [WARNING] Battery level dropping fast: 35%
+12:00:27 [INFO] Altitude: 110m, Battery: 30%, Temp: 54C
+12:00:28 [WARNING] Battery level below threshold. Initiating auto-RTH (Return to Home).
+12:00:29 [INFO] Altitude: 95m, Battery: 25%, Temp: 54C
+12:00:30 [CRITICAL] Battery voltage dangerously low! 15%
+12:00:31 [INFO] Altitude: 70m, Battery: 12%, Temp: 55C
+12:00:32 [ERROR] Motor 1 failure! Status: DISCONNECTED
+12:00:33 [CRITICAL] Severe instability. Attempting emergency landing.
+12:00:34 [ERROR] Connection lost with RC
+12:00:35 [CRITICAL] Impact detected. G-Force: 6.2G. System shutting down.
